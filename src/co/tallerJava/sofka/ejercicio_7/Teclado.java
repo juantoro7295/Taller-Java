@@ -8,11 +8,6 @@ public class Teclado {
 public Teclado(){
     scanner = new Scanner(System.in);
 }
-
-public void mensaje(String mensaje){
-    System.out.println(mensaje);
-}
-
 public int obtenerDatosPorTeclado(){
     return scanner.nextInt();
 }
