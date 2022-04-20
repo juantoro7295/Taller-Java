@@ -13,14 +13,10 @@ g
 0src/co/tallerJava/sofka/ejercicio_3/Circulo.java,8\f\8f080736a708fd96b2ef2fdb77da9a9842463a71
 `
 0src/co/tallerJava/sofka/ejercicio_4/Calculo.java,2\8\287d4caf0b2b66fe3277333d276f650574a5188d
-`
-0src/co/tallerJava/sofka/ejercicio_4/Teclado.java,a\0\a0422887abdd47bc07dd6177ab3e525bf399e468
 a
 1src/co/tallerJava/sofka/ejercicio_4/Producto.java,d\9\d9d4dd38fadfd1252e888f8cd32ad8a0f277e4a8
 ]
 -src/co/tallerJava/sofka/ejercicio_3/App3.java,a\0\a0ac4f99fe0db403956322a8de1346cc237bd3b3
-]
--src/co/tallerJava/sofka/ejercicio_4/App4.java,e\8\e878b98483a283de35a153dfb1e61c9f1f99050b
 e
 5src/co/tallerJava/sofka/ejercicio_1_2/Ejercicio1.java,8\e\8e004445d0ff5dda8112c53f2b52a9027984d1d2
 b
