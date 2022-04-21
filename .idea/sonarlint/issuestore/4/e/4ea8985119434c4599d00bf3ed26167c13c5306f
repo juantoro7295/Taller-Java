@@ -1,0 +1,10 @@
+
+D
+java:S1121".Extract the assignment out of this expression.(‡­à
+C
+java:S1121".Extract the assignment out of this expression.(µØÜi
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ì´ÁÛûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(£í»ıÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¨Ö”
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ã—Ëö
