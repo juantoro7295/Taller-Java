@@ -1,6 +1,4 @@
 
-Q
-!src/co/tallerJava/sofka/Main.java,9\7\97273fb30f8a24764adbb565b1f8abc9bce31cd0
 c
 3src/co/tallerJava/sofka/ejercicio_1_2/Calcular.java,1\4\14b14981beeb7026a6add2c93203799ae5ceed58
 a
@@ -67,3 +65,25 @@ _
 /src/co/tallerJava/sofka/ejercicio_13/Fecha.java,b\4\b4417459f6b52edec1d8d4d71489321d57fd8dca
 _
 /src/co/tallerJava/sofka/ejercicio_13/App13.java,3\4\3413d724d04b9b509435b4f463a0b1fcef4d705a
+a
+1src/co/tallerJava/sofka/ejercicio_14/Teclado.java,8\b\8bee693b87ad316dd6aaf44626069d8ae2fe6857
+`
+0src/co/tallerJava/sofka/ejercicio_14/Numero.java,5\7\573c02a22392f16cc56953e3183953f979cdfb58
+_
+/src/co/tallerJava/sofka/ejercicio_14/App14.java,d\a\da01c2867b53fe65c3bcf38fc51efbe231ee7b9b
+f
+6src/co/tallerJava/sofka/ejercicio_15/PalabrasMenu.java,3\4\3446ed4646f8981e36841f091f61c88d62a58d18
+a
+1src/co/tallerJava/sofka/ejercicio_15/Teclado.java,9\2\9289323a26fb1dcf986f945783243e1c7c569063
+^
+.src/co/tallerJava/sofka/ejercicio_15/Menu.java,3\1\31be9a510659def6e573b7cb73bb1d4b26958dbc
+_
+/src/co/tallerJava/sofka/ejercicio_15/App15.java,5\7\57006e9624eefed7bbe4e48c6af753bc7cb76ae1
+Q
+!src/co/tallerJava/sofka/Main.java,9\7\97273fb30f8a24764adbb565b1f8abc9bce31cd0
+a
+1src/co/tallerJava/sofka/ejercicio_16/Teclado.java,7\c\7c0860299d80a2d7204600d4e0a4737c3fa36e84
+_
+/src/co/tallerJava/sofka/ejercicio_16/App16.java,1\4\1421423000d7c92b4f2a1df1ced73586b2224581
+a
+1src/co/tallerJava/sofka/ejercicio_16/Persona.java,0\e\0e1b01938054ac989780bd2467b15476ce64d890

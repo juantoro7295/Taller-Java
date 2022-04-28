@@ -1,9 +1,10 @@
 package co.tallerJava.sofka;
 
 public class Main {
-    public static class Dia {
-        private String dia;
-
-
+    public static int numeroAleatorio() {
+        return (int) (Math.random() * 10000000);
     }
+
+
+
 }
